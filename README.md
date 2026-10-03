@@ -1,4 +1,4 @@
-# HDB Resale Price Predictor — C3.2 (Better & Trustworthy Models)
+# HDB Resale Price Predictor — C3.3 (Better & Trustworthy Models)
 
 A teaching project that upgrades a simple 3-feature HDB price model into a more
 accurate, honestly-evaluated one — and deploys it as a Streamlit web app.
@@ -7,7 +7,7 @@ accurate, honestly-evaluated one — and deploys it as a Streamlit web app.
 
 
 Built as a 2-hour coaching add-on for **Module 3 · Machine Learning & GenAI**,
-continuing from the C3.1 predictor.
+continuing from the C3.2 predictor.
 
 ## 🚀 Live demo / run it
 
@@ -56,11 +56,11 @@ requirements.txt              Python dependencies
 runtime.txt                   Python version pin for Streamlit Cloud
 facilitator_run_sheet.md      2-hour session plan (Kolb's cycle)
 explainer.html                Interactive concept aid (MAE / features / overfitting)
-notebooks/L06_practice.ipynb  Self-runnable hands-on notebook (incl. model stacking)
+notebooks/C33_practice.ipynb  Self-runnable hands-on notebook (incl. model stacking)
 notebooks/data/               HDB resale dataset the notebook downloads from this repo
 ```
 
-## 📓 What's in the notebook (`notebooks/C32_practice.ipynb`)
+## 📓 What's in the notebook (`notebooks/C33_practice.ipynb`)
 A guided, self-runnable lab that takes the 3-feature baseline and makes it better
 *and* more trustworthy. Recently added:
 - **Plain-English metrics primer** — a no-stats-needed explanation of MAE, MAPE,
